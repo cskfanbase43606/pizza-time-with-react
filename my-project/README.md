@@ -4,7 +4,7 @@ Pizza Time: A delicious online experience. I have designed and developed an e-co
 
 Live Version:
 
-[Pizza Time](https://pizza-time-with-react.vercel.app/)
+[Pizza Time](https://pizza-time-with-react-rana.vercel.app/)
 
 An e-commerce platform tailored for the gastronomy industry. I led end-to-end design and development, utilizing technologies like React Icons, React Router DOM, React Alice Carousel, Leaflet Maps, React Paginate, UUID, React Lazy Load, and Framer Motion.
 
